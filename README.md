@@ -26,9 +26,9 @@ A simple and modern task management application built using React.js.
 
 ## Screenshots
 
-![App Screenshot](./screenshot1.png)
-![App Screenshot](./screenshot2.png)
-![App Screenshot](./screenshot3.png)
+![App Screenshot](./screenshot 1.png)
+![App Screenshot](./screenshot 2.png)
+![App Screenshot](./screenshot 3.png)
 
 ---
 
