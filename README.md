@@ -1,59 +1,43 @@
-# 🚀 Task Manager React App
+# Task Manager React App
 
-A modern and responsive Task Manager application built using React.js. This app allows users to manage daily tasks efficiently with features like add, edit, delete, and persistent storage using localStorage.
-
----
-
-## ✨ Features
-
-- ➕ Add new tasks
-- ✏️ Edit existing tasks
-- 🗑 Delete tasks
-- ✅ Mark tasks as completed
-- 💾 Data persistence using localStorage
-- 📱 Fully responsive design
-- 🎨 Clean and modern UI
+A simple and modern task management application built using React.js.
 
 ---
 
-## 🛠 Tech Stack
+## Features
+
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Data saved using localStorage
+- Responsive UI
+
+---
+
+## Tech Stack
 
 - React.js
-- JavaScript (ES6+)
-- CSS3
+- JavaScript
+- CSS
 - React Hooks (useState, useEffect)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-![Screenshot 1](./screenshot1.png)
-![Screenshot 2](./screenshot2.png)
-![Screenshot 3](./screenshot3.png)
-
----
-
-## 📂 Project Structure
-task-manager/
-│
-├── src/
-│ ├── components/
-│ │ ├── TaskInput.js
-│ │ ├── TaskList.js
-│ │
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-│
-├── public/
-├── package.json
-└── README.md
+![App Screenshot](./screenshot1.png)
+![App Screenshot](./screenshot2.png)
+![App Screenshot](./screenshot3.png)
 
 ---
 
-## ⚙️ Installation & Setup
+## GitHub Repository
 
-1. Clone the repository
+https://github.com/saikiran0563/task-manager-react
 
-```bash
-git clone https://github.com/saikiran0563/task-manager-react.git
+---
+
+## Author
+
+Sai Kiran
